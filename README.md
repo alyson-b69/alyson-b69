@@ -6,7 +6,7 @@
 
 ### 📖 About me :
 
-My name is Alyson and I'm a web student developer at Wild Code School in Lyon, France. <br/>
+My name is Alyson and I'm a former accountant in professional retraining to become a web developer at Wild Code School in Lyon, France. <br/>
 🎯  I am currently looking for an internship of 2 to 6 months (start on 04/01/2021).
 
 ---
@@ -52,6 +52,7 @@ My name is Alyson and I'm a web student developer at Wild Code School in Lyon, F
 </p>
 
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
 
 ---
