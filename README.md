@@ -52,7 +52,13 @@ My name is Alyson and I'm a former accountant in professional retraining to beco
 </p>
 
 <!--START_SECTION:waka-->
-
+```text
+JavaScript   25 hrs 12 mins  ██████████████████░░░░░░░   71.46 % 
+CSS          4 hrs           ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
+JSON         2 hrs 18 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+SCSS         1 hr 42 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+HTML         1 hr 16 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+```
 <!--END_SECTION:waka-->
 
 ---
