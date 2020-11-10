@@ -53,6 +53,8 @@ My name is Alyson and I'm a former accountant in professional retraining to beco
 
 <!--START_SECTION:waka-->
 ```text
+Week: 02 November, 2020 - 09 November, 2020
+
 JavaScript   25 hrs 12 mins  ██████████████████░░░░░░░   71.46 % 
 CSS          4 hrs           ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
 JSON         2 hrs 18 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
