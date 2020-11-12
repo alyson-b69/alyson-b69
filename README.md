@@ -55,11 +55,11 @@ My name is Alyson and I'm a former accountant in professional retraining to beco
 ```text
 Week: 04 November, 2020 - 11 November, 2020
 
-JavaScript   25 hrs 12 mins  ██████████████████░░░░░░░   71.46 % 
-CSS          4 hrs           ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
-JSON         2 hrs 18 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-SCSS         1 hr 42 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
-HTML         1 hr 16 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+JavaScript   22 hrs 41 mins  ███████████████▒░░░░░░░░░   61.53 % 
+JSX          7 hrs 54 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.45 % 
+SCSS         2 hrs 45 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+CSS          2 hrs 9 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+SQL          25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 ```
 <!--END_SECTION:waka-->
 
