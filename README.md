@@ -67,16 +67,19 @@ SQL          25 mins         ▒░░░░░░░░░░░░░░░░
 
 <p align="center">
   &emsp;
-  <a href= "https://instagram.com/alyson.b69">
-    <img src="https://img.icons8.com/ios-glyphs/256/000000/instagram-new.svg" width="28px"/>
-  </a>
-  &emsp;
-  <a href="https://alyson-b.netlify.app">
+ <a href= "https://codesandbox.io/u/alyson-b69" rel="nofollow" target="_blank">
+  <img src="https://api.iconify.design/logos-codesandbox.svg" alt="alyson codesandbox" height="28px" width="28px" />
+ </a> 
+   &emsp;
+  <a href="https://alyson-b.netlify.app" rel="nofollow" target="_blank">
     <img src="https://img.icons8.com/material/256/000000/globe--v1.png" width="28px"/>
   </a>
-  &emsp;
-  <a href="https://linkedin.com/in/alyson-bernabeu-08249a172">
+   &emsp;
+  <a href="https://linkedin.com/in/alyson-bernabeu-08249a172" rel="nofollow" target="_blank" >
     <img src="https://img.icons8.com/ios-filled/256/000000/linkedin.svg" width="26px"/>
   </a>
-
+  &emsp;
+  <a href= "https://instagram.com/alyson.b69" rel="nofollow" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/256/000000/instagram-new.svg" width="28px"/>
+  </a>
 </p>
