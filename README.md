@@ -2,12 +2,13 @@
  ✨ Welcome to Alyson's github ✨
 </h1>
 
-<br/>
 
 ### 📖 About me :
 
-My name is Alyson and I'm a former accountant in professional retraining to become a web developer at Wild Code School in Lyon, France. <br/>
-🎯  I am currently looking for an internship of 2 to 6 months (start on 04/01/2021).
+ <br/>
+👩‍💻 My name is Alyson, a web developer since 2021. <br/><br/>
+⚡  Fun fact: I was an accountant for 10 years and it was by creating bridges between my ERPs that I really decided to change paths for web development. <br/><br/>
+🎯 I am currently a front-end developer at Safecube, a start-up promoting the supply-chain by tracking shipments via IOT and data scrapping.
 
 ---
 
@@ -16,18 +17,21 @@ My name is Alyson and I'm a former accountant in professional retraining to beco
 ![HTML](https://img.shields.io/badge/-HTML5-fff?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-fff?&logo=CSS3&logoColor=1572B6)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)](https://github.com/alyson-b69?tab=repositories&q=&type=&language=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-fff?&logo=TypeScript)
 
 
 
 ### 👩🏻‍💻 Frameworks & Libs
 
 ![ReactJS](https://img.shields.io/badge/-ReactJS-fff?&logo=React)
+![StoryBook](https://img.shields.io/badge/-StoryBook-fff?&logo=Storybook)
+![Styled-Components](https://img.shields.io/badge/-StyledComponents-fff?&logo=StyledComponents&logoColor=DB7093)
 ![Nodejs](https://img.shields.io/badge/-NodeJs-fff?&logo=node.js)
 ![MySQL](https://img.shields.io/badge/-MySQL-fff?&logo=MySQL)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-fff?&logo=PostgreSQL&logoColor=336791)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-fff?&logo=MongoDB)
 ![Gatsby](https://img.shields.io/badge/-Gatsby-fff?&logo=Gatsby&logoColor=8A2BE2)
-![Strapi](https://img.shields.io/badge/-Strapi-fff?&logo=Strapi)
+![Strapi](https://img.shields.io/badge/-Strapi-fff?&logo=Strapi&logoColor=4e26df)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-fff?&logo=GraphQL&logoColor=E10098)
 ![Firebase](https://img.shields.io/badge/-Firebase-fff?&logo=Firebase)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-fff?&logo=Bootstrap&logoColor=563D7C)
@@ -35,6 +39,7 @@ My name is Alyson and I'm a former accountant in professional retraining to beco
 
 ### 🔧 TOOLS
 
+![WebStorm](https://img.shields.io/badge/-WebStorm-fff?&logo=WebStorm&logoColor=000)
 ![VSCode](https://img.shields.io/badge/-VSCode-fff?&logo=Visual-studio-code&logoColor=007ACC)
 ![Github](https://img.shields.io/badge/-Github-fff?&logo=Github&logoColor=181717)
 ![Postman](https://img.shields.io/badge/-Postman-fff?&logo=Postman)
